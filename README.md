@@ -142,4 +142,4 @@ The architecture developed here specifically the **Star Schema** and **dynamic M
 
 
 
-*Built by Faisal Salama —> Data Analyst/Engineer* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/salamafaisal) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/V8FS1)
+*Built by Faisal Salama —> Data Analyst/Engineer* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/salamafaisal) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/FaisalSlama)
